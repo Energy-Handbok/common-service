@@ -20,7 +20,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/BlueEyesssss/common-service</url>
+			<url>https://maven.pkg.github.com/Energy-Handbok/common-service</url>
 		</repository>
 	</distributionManagement>
 	<dependencies>
